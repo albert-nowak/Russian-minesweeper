@@ -1,0 +1,2 @@
+# Russian-minesweeper
+Simple minesweeper
